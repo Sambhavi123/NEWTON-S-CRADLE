@@ -1,2 +1,1 @@
-# NEWTON-S-CRADLE
-Physics Magic
+# NC27
